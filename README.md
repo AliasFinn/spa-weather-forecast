@@ -1,6 +1,7 @@
 # О приложении
 
   Создано маленькое но функциональне приложение - прогноз погоды. Все работет по апишке с сайта https://openweathermap.org/
+  Выбираем город, в котором хотим узнать текущую погоду. В поле инпута сработает подсказка (ввод доступен как с RU так и с EN раскладки)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
