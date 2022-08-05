@@ -1,6 +1,6 @@
 # О приложении
 
-  Создано маленькое но функциональне приложение - прогноз погоды. Все работет по апишке с сайта https://openweathermap.org/ Более дабавить нечего.
+  Создано маленькое но функциональне приложение - прогноз погоды. Все работет по апишке с сайта https://openweathermap.org/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
