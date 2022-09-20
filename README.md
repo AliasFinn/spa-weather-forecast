@@ -1,7 +1,5 @@
 # About this app
 
-Small functional application - weather forecast
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Small functional application - weather forecast. Works with API site <https://openweathermap.org>
